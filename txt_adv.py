@@ -1,1 +1,5 @@
 name = input("Enter player name: ")
+print("The sun rises on your fifth day wandering the Abyssal Fog, Veyne by your side, quiet as usual.")
+print("Veyne: It's been so long... are we doomed to die here?")
+print("Stop your complaining, it's not help-")
+print("Shut up. Hear that?")
