@@ -3,3 +3,6 @@ print("The sun rises on your fifth day wandering the Abyssal Fog, Veyne by your 
 print("Veyne: It's been so long... are we doomed to die here?")
 print("Stop your complaining, it's not help-")
 print("Shut up. Hear that?")
+print("Though Veyne's interruption irked you, you close your eyes, listening for any faint signs of life.")
+print("Sure enough... you hear the noise of a bustling market, faint but there.")
+print("You think: Finally, I won't be alone with this smug know-it-all.")
